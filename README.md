@@ -1,6 +1,12 @@
 # silver-standard-performance
 
 
+## Installation
+
+```
+devtools::install_github('hakyimlab/silver-standard-performance')
+```
+
 ## Overview 
 
 **SilverStandardPerformance** is an light-weight R package. 
